@@ -1,5 +1,4 @@
 
-
 public class toys implements Comparable<toys> {
     private int id;
     private int weight;
